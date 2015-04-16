@@ -13,6 +13,7 @@
 		D010D1051AE03EEB002636D6 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D010D1041AE03EEB002636D6 /* Images.xcassets */; };
 		D010D1081AE03EEB002636D6 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = D010D1061AE03EEB002636D6 /* LaunchScreen.xib */; };
 		D010D1141AE03EEB002636D6 /* Project2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D010D1131AE03EEB002636D6 /* Project2Tests.swift */; };
+		D010D11E1AE04B75002636D6 /* Array+Shuffling.swift in Sources */ = {isa = PBXBuildFile; fileRef = D010D11D1AE04B75002636D6 /* Array+Shuffling.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		D010D10D1AE03EEB002636D6 /* Project2Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Project2Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D010D1121AE03EEB002636D6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D010D1131AE03EEB002636D6 /* Project2Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Project2Tests.swift; sourceTree = "<group>"; };
+		D010D11D1AE04B75002636D6 /* Array+Shuffling.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Array+Shuffling.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 		D010D0FA1AE03EEB002636D6 /* Project2 */ = {
 			isa = PBXGroup;
 			children = (
+				D010D11D1AE04B75002636D6 /* Array+Shuffling.swift */,
 				D010D0FD1AE03EEB002636D6 /* AppDelegate.swift */,
 				D010D0FF1AE03EEB002636D6 /* ViewController.swift */,
 				D010D1011AE03EEB002636D6 /* Main.storyboard */,
@@ -214,6 +217,7 @@
 			files = (
 				D010D1001AE03EEB002636D6 /* ViewController.swift in Sources */,
 				D010D0FE1AE03EEB002636D6 /* AppDelegate.swift in Sources */,
+				D010D11E1AE04B75002636D6 /* Array+Shuffling.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
