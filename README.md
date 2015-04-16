@@ -10,3 +10,7 @@ Project 2
 - UIAlertController addAction method
 - fuctions accepting UIAlertAction as a parameter
 - shuffle an array
+
+Project 3
+- sharing via UIActivityViewController
+- sharing via Social Framework
