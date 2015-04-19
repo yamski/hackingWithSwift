@@ -19,6 +19,7 @@ Project 4
 - WKWebView
 - UIToolBar, toolbar items array
 - UIProgressView
+  1. embedd in barButton in toolBar
 - Key Value Observing (KVO)
   1. webView.addObserver
   2. override func observeValueForKeyPath
